@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kanomahoro&hide=html)
-![るるど's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanomahoro&show_icons=true&count_private=true&line_height=40)
+![神戸ことり's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanomahoro&show_icons=true&count_private=true&line_height=40)
